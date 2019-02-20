@@ -1,0 +1,3 @@
+# The expectations of 3D printing {#expectations -}
+
+![Hopes and fear](assets/hopes_and_fears.png)

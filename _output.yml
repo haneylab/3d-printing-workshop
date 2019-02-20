@@ -1,0 +1,22 @@
+bookdown::gitbook:
+  css: css/my_style.css
+  config:
+    toc:
+      collapse: section
+      before: |
+        <li><a href="./"> 3D printing workshop</a></li>
+      after: |
+        <li>
+        <a href="https://bookdown.org/yihui/bookdown/" target="blank">Published with bookdown</a>
+        </li>
+    edit: https://github.com/haneylab/3d-printing-workshop/edit/source/%s
+    download: ["pdf", "epub"]
+
+bookdown::pdf_book:
+  includes:
+    in_header: preamble.tex
+  latex_engine: xelatex
+  citation_package: natbib
+  keep_tex: yes
+
+bookdown::epub_book: default

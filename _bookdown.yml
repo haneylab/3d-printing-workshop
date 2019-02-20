@@ -1,0 +1,7 @@
+book_filename: "3d-printing-workshop.Rmd"
+delete_merged_file: true
+language:
+  ui:
+    chapter_name: "Section "
+
+before_chapter_script: "r_options.R"
