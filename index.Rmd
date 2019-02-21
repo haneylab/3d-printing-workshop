@@ -9,7 +9,7 @@ bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
 github-repo: rethomics/rethomics.github.io
-description: "This is a workshop design to tech the basics of 3d printing to biologists"
+description: "A workshop to teach the basics of 3d printing to biologists"
 ---
 
 # Prerequisites {-}
