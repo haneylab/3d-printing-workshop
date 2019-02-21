@@ -23,3 +23,25 @@
 ## Examples {-}
 
 
+![](https://journals.plos.org/plosbiology/article/figure/image?size=large&id=info:doi/10.1371/journal.pbio.1002086.g002)
+
+A 3d printed micromanipulator ["Open Labware: 3-D Printing Your Own Lab Equipment", Baden et al., 2015](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002086)
+
+---------------------------
+
+![](https://dfzljdn9uc3pi.cloudfront.net/2016/2661/1/fig-4-2x.jpg)
+
+A custom device for a motility assay (PLA) ["On the intrinsic sterility of 3D printing", Neches et al., 2016](https://peerj.com/articles/2661/?utm_source=TrendMD&utm_campaign=PeerJ_TrendMD_1&utm_medium=TrendMD)
+
+---------------------------
+
+![](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4862901/bin/nihms-780576-f0012.jpg)
+
+Modular resin printed microfluidic chambers ["The upcoming 3D-printing revolution in microfluidics", Bhattacharjee et al., 2016](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4862901/)
+
+---------------------------
+
+![](https://dfzljdn9uc3pi.cloudfront.net/2015/965/1/fig-1-1x.jpg)
+
+3D printed bird eggs ["Using 3D printed eggs to examine the egg-rejection behaviour of wild birds", Branislav Igic et al., 2016](https://peerj.com/articles/965/?utm_source=TrendMD&utm_campaign=PeerJ_TrendMD_1&utm_medium=TrendMD)
+
