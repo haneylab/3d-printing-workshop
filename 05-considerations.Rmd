@@ -1,6 +1,6 @@
 # Important considerations {-}
 
-## Startegy {-}
+## Strategy {-}
 
 * **Is your idea printable?**
 * **Is printing the best way?**
