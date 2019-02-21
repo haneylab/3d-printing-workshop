@@ -1,3 +1,4 @@
 # The expectations of 3D printing {#expectations -}
 
-![Hopes and fear](assets/hopes_and_fears.png)
+![3D printing, hopes and fears of a revolution](assets/hopes_and_fears.png)
+

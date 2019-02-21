@@ -1,0 +1,25 @@
+# The singularity of 3D printing {-}
+
+## Why is 3D printing compelling for (some) scientists {-}
+
+### Digitalised design **computer** {-}
+
+* Repetition
+* Accuracy
+* Sharing/adapting
+
+### Accessibility {-}
+
+* Cost
+* Simple software
+* Simple hardware
+
+### Translation {-}
+
+* Outreach
+* Citizen science
+* ...
+
+## Examples {-}
+
+

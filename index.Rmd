@@ -13,3 +13,7 @@ description: "This is a workshop design to tech the basics of 3d printing to bio
 ---
 
 # Prerequisites {-}
+
+* *Create and [onshape acount](https://cad.onshape.com)*. Onshape is a free online software for Computer-Aided Design
+* *Install [Cura](https://ultimaker.com/en/products/ultimaker-cura-software) on your computer*. Cura "prepares" your 3D file for our specific model of printer (Ultimaker 3).
+  

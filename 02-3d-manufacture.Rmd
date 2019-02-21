@@ -1,0 +1,18 @@
+# Mordern vs Primitive 3D printing {#modern3d -}
+
+## Modern {-}
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BguwZ5DvNmo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+*"[Fused filament fabrication" printing](https://en.wikipedia.org/wiki/Fused_filament_fabrication) works by depositing a melted polumer filament onto successive layers*
+
+## Primitive {-}
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o8FmgUQtLHk?start=110" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+*["Coiling"](https://en.wikipedia.org/wiki/Coiling_(pottery)) is a widespread primitive technology whereby a potters extrudes successive coils of clay to build a volume*
+
+
+## An evolution not a revolution {-}
+
+Both "additive"" and "substractive" manufacturing have been around since the dawn of time.
+
+3D printing is just another tool amongst a large collection.

@@ -1,6 +1,8 @@
 [
-["index.html", "3D printing Workshop Prerequisites", " 3D printing Workshop Quentin Geissmann 21/02/2019 Prerequisites "],
-["expectations.html", "The expectations of 3D printing", " The expectations of 3D printing Hopes and fear "],
-["modern3d.html", "Mordern 3D printing", " Mordern 3D printing "],
-["todo.html", "Todo", " Todo voila "]
+["index.html", "3D printing Workshop Prerequisites", " 3D printing Workshop Quentin Geissmann 21/02/2019 Prerequisites Create and onshape acount. Onshape is a free online software for Computer-Aided Design Install Cura on your computer. Cura “prepares” your 3D file for our specific model of printer (Ultimaker 3). "],
+["expectations.html", "The expectations of 3D printing", " The expectations of 3D printing 3D printing, hopes and fears of a revolution "],
+["modern3d.html", "Mordern vs Primitive 3D printing Modern Primitive An evolution not a revolution", " Mordern vs Primitive 3D printing Modern \"Fused filament fabrication\" printing works by depositing a melted polumer filament onto successive layers Primitive “Coiling” is a widespread primitive technology whereby a potters extrudes successive coils of clay to build a volume An evolution not a revolution Both “additive”\" and “substractive” manufacturing have been around since the dawn of time. 3D printing is just another tool amongst a large collection. "],
+["the-singularity-of-3d-printing.html", "The singularity of 3D printing Why is 3D printing compelling for (some) scientists Examples", " The singularity of 3D printing Why is 3D printing compelling for (some) scientists Digitalised design computer Repetition Accuracy Sharing/adapting Accessibility Cost Simple software Simple hardware Translation Outreach Citizen science … Examples "],
+["important-consideration.html", "Important consideration Startegy Design compatibility Physicochemical properties", " Important consideration Startegy Is your idea printable? Is printing the best way? How to iterated through prototypes faster? Design compatibility How will you print (e.g. hoverhang)? Resolution Physicochemical properties Mechanical Light/colour Weather resistance Sterility … "],
+["the-workflow.html", "The workflow", " The workflow Typical 3D printing workflow The whole workflow can be be implemented by 1 person in 1 day. "]
 ]

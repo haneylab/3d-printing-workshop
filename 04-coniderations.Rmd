@@ -1,0 +1,20 @@
+# Important consideration {-}
+
+## Startegy {-}
+
+* **Is your idea printable?**
+* **Is printing the best way?**
+* How to iterate through prototypes faster?
+
+## Design compatibility{-}
+
+* **How will you print (e.g. hoverhang)?**
+* **Resolution**
+
+
+## Physicochemical properties {-}
+* Mechanical
+* Light/colour
+* Weather resistance
+* Sterility
+* ...

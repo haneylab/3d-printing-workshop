@@ -1,0 +1,9 @@
+# The workflow {-}
+
+
+
+![Typical 3D printing workflow](assets/workflow.svg)
+
+The whole workflow can be be implemented by **1 person** in **1 day**.
+
+
