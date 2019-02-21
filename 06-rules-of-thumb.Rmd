@@ -1,3 +1,19 @@
-# Your turn! {-}
+# Important rules {-}
 
-Have fun and ask for help and tips!
+## Don't reinvent the wheel {-}
+
+* Maybe someone already design your idea (look on the [thingiverse](https://www.thingiverse.com) and  [open-labware](https://open-labware.net/).
+* Modify and derive rather than build from scratch
+
+## Think like an engineer {-}
+
+* Apply the [rule of three](https://en.wikipedia.org/wiki/Rule_of_three_(computer_programming)) (use *contraints* and *variables* to limit hardcoding).
+* Be lazy, take advantage of symetries and recurences to avoid repetition 
+
+## Be strategical {-}
+
+* Test the most critical part of your design as early as possible -- refine later
+* Print only small portions of your project to test specific ideas
+* Print several "hypothesis" in parallel
+
+
